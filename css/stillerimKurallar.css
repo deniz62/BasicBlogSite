@@ -1,0 +1,13 @@
+.kenarlikRow{border:2px solid red;}
+.kenarlikCol{border:1px solid orange;}
+.kalinKenarlik{border:10px solid gray;}
+.yaziBeyaz{color:white;}
+.koyu{font-weight:bold;}
+.fontArial{font-family: Arial}
+.zIndex4{z-index:4;}
+.zIndex3{z-index:3;}
+.zIndex2{z-index:2;}
+.zIndex1{z-index:1;}
+.dolguOrange{
+	background: orange
+}

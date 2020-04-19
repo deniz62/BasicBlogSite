@@ -1,0 +1,92 @@
+#ustMenu a{
+	color:white;
+	text-decoration: none
+}
+
+.satirAraligi50{
+	line-height: 50px
+}
+
+.borderRadius5{
+	border-radius: 5px
+}
+
+.altCizgi{
+	border:5px solid #fda403;
+}
+.beyaz{
+	color:white;
+}
+.kiremitRengi{
+	color:#ffdcac;	
+}
+.yaziTuruncu{
+	color:#fda403 !important;
+}
+
+.koyu{
+	font-weight:bold !important;
+}
+
+.font13{
+	font-size:13px;
+}
+
+.font14{
+	font-size:14px;
+}
+
+.font15{
+	font-size:15px;
+}
+
+.font16{
+	font-size:16px;
+}
+
+.font18{
+	font-size:18px;
+}
+
+.font20{
+	font-size:20px;
+}
+
+.font22{
+	font-size:22px;
+}
+
+.font24{
+	font-size:24px;
+}
+
+.font26{
+	font-size:26px;
+}
+
+.font28{
+	font-size:28px;
+}
+
+.font32{
+	font-size:32px;
+}
+
+.font40{
+	font-size:40px;
+}
+
+.font48{
+	font-size:48px;
+}
+
+.font50{
+	font-size:50px;
+}
+
+.font60{
+	font-size:60px;
+}
+.font80{
+	font-size:80px;
+}
